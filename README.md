@@ -5,7 +5,7 @@ I am an aspiring developer pursuing a Bachelor's degree in Information Technolog
 My main interest lies in AI, particularly Machine Learning and Deep Learning in Opensource projects. 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Chanvichet%20Vong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chanvichet-v-838351128/)](https://www.linkedin.com/in/chanvichet-v-838351128/)
+[![Linkedin Badge](https://img.shields.io/badge/-Chanvichet%20Vong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chanvichet-v-838351128/)](https://www.linkedin.com/in/chanvichet-vong/)
 
 ## Languages
 
