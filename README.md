@@ -1,6 +1,6 @@
 ### Hi there wanderer! 👋
 
-I am an aspiring developer pursuing a Bachelor's degree in Information Technology. 
+I am an aspiring developer pursuing a Master's degree in Information and Communications Engineering. 
 
 My main interest lies in AI, particularly Machine Learning and Deep Learning in Opensource projects. 
 
